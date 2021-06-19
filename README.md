@@ -6,6 +6,7 @@ Check the Toxicity 🥨 of any text using this tool.
 
 This project uses Tensorflow js
 
+Give this repo a 🌟🌟🌟🌟🌟 if it helped you
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
