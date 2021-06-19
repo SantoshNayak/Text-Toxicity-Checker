@@ -1,5 +1,12 @@
 # TextToxicityMeasure
 
+This Project is live at https://santoshnayak.github.io/Text-Toxicity-Checker
+
+Check the Toxicity 🥨 of any text using this tool.
+
+This project uses Tensorflow js
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
 ## Development server

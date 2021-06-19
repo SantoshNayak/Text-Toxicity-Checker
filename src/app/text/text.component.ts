@@ -9,7 +9,7 @@ import { NgxUiLoaderService } from 'ngx-ui-loader';
 export class TextComponent implements OnInit {
   constructor(public uiLoader: NgxUiLoaderService) {}
   finalPredictions;
-  textToAnalyze:string = 'you a fucking idiot';
+  textToAnalyze:string = 'you are an idiot';
 
   Measuring ='Measuring';
 
