@@ -23,6 +23,8 @@
     "@tensorflow-models/toxicity": "^1.2.2",
     "@tensorflow/tfjs": "^3.7.0",
     "autoprefixer": "^10.2.6",
+    "ngx-toastr": "^14.0.0",
+    "ngx-ui-loader": "^11.0.0",
     "postcss": "^8.3.5",
     "rxjs": "~6.6.0",
     "tslib": "^2.1.0",
